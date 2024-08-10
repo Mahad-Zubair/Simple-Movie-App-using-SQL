@@ -1,6 +1,6 @@
 # Movie App
 
-Welcome to the Movie App, a web application built using Oracle APEX that allows users to explore, search, and manage movie data effortlessly. This app provides insightful visualizations and interactive features to enhance the movie-watching experience.
+Welcome to the Movie App, a web application built using Oracle APEX that allows users to explore, search, and manage movie data effortlessly. This app provides insightful visualizations and interactive features to enhance the movie experience.
 
 ## Table of Contents
 
